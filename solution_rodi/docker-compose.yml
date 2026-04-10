@@ -1,21 +1,21 @@
 services:
   go:
     build:
-      context: ./go
-      dockerfile: Dockerfile
+      context: go
+      dockerfile: go/Dockerfile
     ports:
       - "5001:5000"
 
   js:
     build:
-      context: ./js
-      dockerfile: Dockerfile
+      context: js
+      dockerfile: js/Dockerfile
     ports:
       - "3000:3000"
 
   python:
     build:
-      context: ./python
-      dockerfile: Dockerfile
+      context: python
+      dockerfile: python/Dockerfile
     ports:
       - "4000:4000"
