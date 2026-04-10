@@ -1,0 +1,8 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
