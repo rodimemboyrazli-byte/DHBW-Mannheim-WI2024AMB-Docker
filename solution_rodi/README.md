@@ -1,4 +1,4 @@
-# solution_Rodi
+# solution_rodi
 
 Drei einfache Calculator-APIs (Go, JavaScript, Python), die zusammen per Docker Compose laufen.
 
@@ -9,7 +9,7 @@ Drei einfache Calculator-APIs (Go, JavaScript, Python), die zusammen per Docker 
 
 ## Schnellstart
 
-Im Ordner `exercise/solution_Rodi`:
+Im Ordner `solution_rodi`:
 
 ```bash
 docker compose up -d --build
@@ -28,7 +28,7 @@ Stoppen:
 docker compose down
 ```
 
-## API-Uebersicht
+## API-Uebersicht (endpoints)
 
 ### Go (`localhost:5001`)
 
