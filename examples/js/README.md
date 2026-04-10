@@ -1,5 +1,5 @@
-`npm install`
+Setup: `npm install`
 
-`node calculator.js`
+Start: `node calculator.js`
 
 Server läuft auf `localhost:3000`
