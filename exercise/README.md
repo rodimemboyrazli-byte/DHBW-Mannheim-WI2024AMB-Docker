@@ -13,7 +13,7 @@ oder CLI-Version: [Docker Engine](https://docs.docker.com/engine/install/)
 3. Für jede API die Dockerfile erstellen
 4. In deinem Ordner eine `docker-compose.yml` erstellen, um alle APIs zu starten
 5. Testen, ob alle APIs korrekt starten und ob die Endpunkte erreichbar sind
-6. Optional: Dokumentation erstellen
+6. Dokumentation erstellen (README.md)
 
 ## Abgabe:
 1. Forked Repository auf GitHub pushen
